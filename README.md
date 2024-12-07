@@ -1,7 +1,7 @@
 ## 📝 Welcome! to my github profile
 
 ### Hi there, I am a Joshua Aranda, from Merida Yucatan Mexico, a JavaScript developer enthusiast and a passionate web developer, until now I've been working in web development, 
-### most precisely with the MERN stack, now I'm working in a minimum social network (personal project), to be precise I've been working with JS since 2022, mostly with the frontend and most reciently in the backend, also, I've worked with Django, pandas and matplotlib in the past, but sincerely, I prefer to work with JavaScript technologies, including React and NodeJS + Express, even that, I'm open to new opportunities.
+### most precisely with the MERN stack, now I'm working in a minimum social network (personal project), to be precise I've been working with JS since 2021, mostly with the frontend and most reciently in the backend, also, I've worked with Django, pandas and matplotlib in the past, but sincerely, I prefer to work with JavaScript technologies, including React and NodeJS + Express, even that, I'm open to new opportunities.
 
 ### Here you'll find some of my personal projects, if you have any doubt or suggestions, feel free to contact me, or issue a PR
 
